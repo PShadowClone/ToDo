@@ -1,0 +1,13 @@
+<?php
+/**
+ * HTTP STATUS OK
+ */
+define('STATUS_OK' , 200);
+/**
+ * HTTPS STATUS INVALID VALIDATION
+ */
+define('STATUS_INVALID_VALIDATION' , 400);
+/**
+ * HTTP STATUS RESOURCE NOT FOUND
+ */
+define('STATUS_NOT_FOUND' , 404);
